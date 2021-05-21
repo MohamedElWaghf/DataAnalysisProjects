@@ -1,4 +1,4 @@
-# DataViz
+# Data analysis projects
 Ce répertoire contient des brèves descriptions des visualisations que je fais avec Tableau ainsi que les liens pour accéder aux dashboards.
 
 # Accidents de de bus à London de 2015 à 2018
